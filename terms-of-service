@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+    <!--- basic page needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>Limitless VPN</title>
+    <meta name="description" content="one of the most fastest and scalable Virtual Private Network (VPN), enabling real-time protection and security of your connection anywhere in the world for free.">
+    <meta name="author" content="">
+
+    <!-- mobile specific metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/vendor.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- script
+    ================================================== -->
+    <script src="js/modernizr.js"></script>
+    <script src="js/pace.min.js"></script>
+
+    <!-- favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+
+<body id="top">
+
+    <!-- preloader
+    ================================================== -->
+    <div id="preloader">
+        <div id="loader" class="dots-jump">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+
+    <!-- header 
+    ================================================== -->
+    <header class="s-header">
+
+        <div class="row">
+            <div class="header-logo">
+                <a class="site-logo" href="index.html">
+                    <img src="images/xyme5.png" alt="Homepage">
+                </a>
+            </div>
+   
+    </header> <!-- end header -->
+
+        <!-- features
+    ================================================== -->
+    <section id="privacy-policy" class="s-features target-section">
+
+        <div class="row section-header has-bottom-sep" data-aos="fade-up">
+            <div class="col-full">
+                <h1 class="display-1">
+                    Terms of Service
+                </h1>
+                <p class="lead">
+                   We are providing free services here in xyrussproject.github.io/limitlessvpn-core, but please read our terms of service and use our services wisely.
+                </p>
+                <p class="lead">
+                    Terms
+                </p>
+                <p class="lead">
+                    By accessing this Website, accessible from https://xyrussproject.github.io/limitlessvpn-core, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
+                </p>
+               <p class="lead">
+                    Use License
+                </p>
+                <p class="lead">
+                    Permission is granted to temporarily download one copy of the materials on Limitless VPN App / Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:<br><br>
+                    
+                    · modify or copy the materials;<br>
+                    · use the materials for any commercial purpose or for any public display;<br>
+                    · attempt to reverse engineer any software contained on Limitless VPN App / Website;<br>
+                    · remove any copyright or other proprietary notations from the materials; or<br>
+                    · transferring the materials to another person or "mirror" the materials on any other server.<br>
+                    · using any of our services in illegal activities such as Hacking, Spamming, Carding, Torrenting, and Fraud.<br><br>
+                    
+                    This will let Limitless VPN to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format.
+               </p>
+                <p class="lead">
+                    Disclaimer
+                </p>
+                <p class="lead">
+                    All the materials on Limitless VPN App / Website are provided "as is". Limitless makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Limitless VPN does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
+                </p>
+                <p class="lead">
+                   Limitations
+                </p>
+                <p class="lead">
+                   Limitless or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Limitless VPN App / Website, even if Limitless VPN or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
+                </p>
+                <p class="lead">
+                   Revisions and Errata
+                </p>
+                <p class="lead">
+                   The materials appearing on Limitless VPN App / Website may include technical, typographical, or photographic errors. Limitless VPN will not promise that any of the materials in this Website are accurate, complete, or current. Limitless VPN may change the materials contained on its Website at any time without notice. Limitless VPN does not make any commitment to update the materials.
+                </p>
+                <p class="lead">
+                   Links
+               </p>
+                <p class="lead">
+                    Limitless VPN has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Limitless VPN of the app or site. The use of any linked website is at the user’s own risk.
+                </p>
+                <p class="lead">
+                   Site Terms of Use Modifications
+               </p>
+                <p class="lead">
+                    Limitless VPN may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.
+                </p>
+                <p class="lead">
+                   Your Privacy
+                </p>
+                <p class="lead">
+                    Please read our Privacy Policy.
+               </p>
+                <p class="lead">
+                    Governing Law
+                </p>
+                <p class="lead">
+                    Any claim related to Limitless VPN App / Website shall be governed by the laws of Philippines without regards to its conflict of law provisions.
+               </p>
+              
+            </div>
+        </div> <!-- end section-header -->
+        </section>
+        
+        <div class="go-top">
+            <a class="smoothscroll" title="Back to Top" href="#top"></a>
+        </div>
+        
+<footer class="footer text-center text-sm-left">
+    &copy; <script>document.write(new Date().getFullYear()); </script> <span class="text-muted d-none d-sm-inline-block float-right">Crafted by <a href="http://beeg.com">MAX Movies Philippines</a></span>
+</footer>
+
+    <!-- Java Script
+    ================================================== -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
